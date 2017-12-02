@@ -1,5 +1,5 @@
 # Intro_GIS_Portfolio
-This repository contains the maps created as part of my Intro to GIS Lab. It is a work in progress as the course is still ongoing. Each layout is meant to build upon the tools and methods of the previous lab, with the goal of acquiring an introductory level skillset once the course is completed. With a functional introductory knowledge of ArcGIS, I will look to apply the software's capabilities to find answers to public health questions and problems. (Fall 2017). 
+This repository contains the maps created as part of my Intro to GIS Lab. After a semester of class lectures and computer lab work, this portfolio serves as a showcase for my skills as a GIScientist. Each layout is meant to build upon the tools and methods of the previous lab, as well as to apply and display the introductory concepts discussed in class. Now that I have a functional introductory knowledge of ArcGIS, I will look to apply the software's capabilities to find answers to public health questions and problems. (Fall 2017). 
 
 ## Table of Contents
 
