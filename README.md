@@ -10,3 +10,4 @@ This repository contains the maps created as part of my Intro to GIS Lab. After 
 5. Potential Training Center Locations, Athens-Clarke County, GA, HerringBlake_lab7.pdf
 6. Suitability Analysis of Potential Sites for a New Training Center in Athens-Clarke County, GA, HerringBlake_lab8.pdf
 7. Atlanta Hospital Catchment Areas and Overnight City Population, HerringBlake_lab9.pdf
+8. Contiguous US Congressional District Shape Irregularity, HerringBlake_labFinal.pdf
